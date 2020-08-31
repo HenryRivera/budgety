@@ -7,16 +7,7 @@
 
 ## Installation
 
-Use the package manager [node](https://nodejs.org/en/) to install the necessary dependencies.
-
-```bash
-npm install
-```
-To run the project locally
-
-```bash
-npm start
-```
+Simply need to run HTML preview through IDE
 
 ## Visual Walkthrough
 ![Video Walkthrough](https://github.com/HenryRivera/BurgerBuilder/blob/master/burgerBuilderDemo.gif)
