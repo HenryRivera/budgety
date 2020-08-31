@@ -10,7 +10,7 @@
 Simply need to run HTML preview through IDE
 
 ## Visual Walkthrough
-![Video Walkthrough](https://github.com/HenryRivera/BurgerBuilder/blob/master/burgerBuilderDemo.gif)
+![Video Walkthrough](https://github.com/HenryRivera/budgety/blob/master/budgetyDemo.gif)
 
 ## Support
 If you wish to contribute to the expansion of this project feel free to reach out to me @ henry.rivera@nyu.edu. Thanks!
